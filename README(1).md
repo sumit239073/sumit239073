@@ -188,3 +188,137 @@ class SumitRajput:
 ---
 
 # ⚡ "The future belongs to those who build it."
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,flask,nextjs,react,tailwind,mysql,sqlite,git,github,vscode,figma,postman&perline=8"/>
+
+</div>
+
+---
+
+# 🧠 Skills Matrix
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Natural Language Processing
+- Prompt Engineering
+- Generative AI
+- Data Analysis
+- AI Workflow Design
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+- NumPy
+- Pandas
+- Matplotlib
+- Data Cleaning
+- Data Visualization
+- Statistics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Development
+
+- Python
+- Flask
+- Next.js
+- React
+- Tailwind CSS
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Google Colab
+- Figma
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧬 Tech Radar
+
+<div align="center">
+
+| 💡 Domain | 🚀 Level |
+|-----------|----------|
+| Python | ██████████ 95% |
+| Artificial Intelligence | ████████░░ 80% |
+| Machine Learning | ███████░░░ 70% |
+| Data Science | ████████░░ 80% |
+| NLP | ██████░░░░ 60% |
+| SQL | ███████░░░ 70% |
+| Flask | ███████░░░ 70% |
+| Next.js | ██████░░░░ 60% |
+| Git & GitHub | ████████░░ 80% |
+
+</div>
+
+---
+
+# 🏗️ Currently Working With
+
+<div align="center">
+
+| AI | Backend | Frontend | Database | Tools |
+|----|----------|-----------|-----------|-------|
+| 🤖 GenAI | Flask | Next.js | SQLite | Git |
+| 🧠 NLP | Python | React | MySQL | GitHub |
+| 📊 ML | APIs | Tailwind | Supabase | VS Code |
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+🧠 Deep Learning &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 Large Language Models &nbsp;&nbsp;•&nbsp;&nbsp;
+👁️ Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp;
+☁️ MLOps &nbsp;&nbsp;•&nbsp;&nbsp;
+📈 Advanced Data Science
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Favorite Quote
+
+> **"The best way to predict the future is to build it."**
+
+</div>
+
+---
